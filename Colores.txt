@@ -1,0 +1,12 @@
+1.  Amarillo
+2.  Azul
+3.  Celeste
+4.  Verde
+5.  Rojo
+6.  Anaranjado
+7.  Fucsia
+8.  Rosado
+9.  Negro
+10. Marron
+11. Magente
+12. Cyan
